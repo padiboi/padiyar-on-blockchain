@@ -1,10 +1,10 @@
-# padiyar-on-blockchain
+# References repo
 
 
-This is the reference repository for the Padiyar on blockchain newsletter on <link>
+This is the reference repository for the Padiyar on blockchain newsletter on [Substack](https://padiyar.substack.com/). I will update this regularly to include both material related to my posts and otherwise. Contributions invited!
 
 ### Videos
-Intro to web3/blockchain platlist - https://www.youtube.com/playlist?list=PLFjTj8QScrlnl_iYZSLBmRxMmtjPhUbu9
+Intro to web3/blockchain playlist - https://www.youtube.com/playlist?list=PLFjTj8QScrlnl_iYZSLBmRxMmtjPhUbu9
 
 #### By topic
 
